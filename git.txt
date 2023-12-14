@@ -1,2 +1,2 @@
 welcome to git status!!!!
-update from feature
+update from feature1 feature
